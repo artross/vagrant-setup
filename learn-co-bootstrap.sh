@@ -26,6 +26,9 @@ gem install rails
 #Learn gem
 gem install learn-co
 
+#pry
+gem install pry pry-doc
+
 #SQLite
 sudo apt-get install -y sqlite3
 
