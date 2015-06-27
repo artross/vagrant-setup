@@ -20,14 +20,11 @@ sudo apt-get install -y autoconf bison build-essential libssl-dev libyaml-dev li
 rbenv install 2.2.2
 rbenv global 2.2.2
 
-#rails
-gem install rails
-
-#Learn gem
+#Learn.co gem
 gem install learn-co
 
-#pry
-gem install pry pry-doc
+#some important gems: rails, bundler, pry
+gem install rails bundler pry pry-doc
 
 #SQLite
 sudo apt-get install -y sqlite3
